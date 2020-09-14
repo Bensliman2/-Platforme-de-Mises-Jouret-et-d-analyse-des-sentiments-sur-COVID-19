@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "jwt.expiration",
+    "type": "java.lang.Integer",
+    "description": "number of hours for wich the token is available"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "secret key used for to configure Jwt"
+  },
+  {
+    "name": "python.path",
+    "type": "java.lang.String",
+    "description": "the path to the python interpreter"
+  },
+  {
+    "name": "scripts.path",
+    "type": "java.lang.String",
+    "description": "the path to the python scripts folder"
+  }
+]}
